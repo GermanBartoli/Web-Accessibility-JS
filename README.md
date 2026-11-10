@@ -5,7 +5,7 @@
 [![Repositorio](https://img.shields.io/badge/GitHub-GermanBartoli-181717?logo=github)](https://github.com/GermanBartoli/Web-Accessibility-JS)
 [![Verificaciones](https://github.com/GermanBartoli/Web-Accessibility-JS/actions/workflows/publicar.yml/badge.svg)](https://github.com/GermanBartoli/Web-Accessibility-JS/actions/workflows/publicar.yml)
 
-[Empezar](#primeros-pasos) · [Mapa del repositorio](#mapa-del-repositorio) · [Autoría](#autoría-de-esta-documentación)
+[Abrir en Cloudflare](https://web-accessibility-js.pages.dev/) · [Abrir en GitHub Pages](https://germanbartoli.github.io/Web-Accessibility-JS/) · [Empezar](#primeros-pasos) · [Mapa del repositorio](#mapa-del-repositorio) · [Autoría](#autoría-de-esta-documentación)
 
 ![Guía visual: Accesibilidad web · JavaScript](docs/readme/guia.svg)
 
